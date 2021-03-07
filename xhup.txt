@@ -26428,7 +26428,7 @@ lvyu 雷阵雨
 lvyz 旅游
 lvzc 屡遭
 lvzi 驴子
-lw /oqlw
+lw 类
 lwa 耒
 lwan 耒
 lwb 类别
@@ -29512,7 +29512,7 @@ nfr 恁
 nfrx 恁
 nfrz 嫩肉
 nfyn 年复一年
-ng /oqng
+ng 能
 ngbb 年过半百
 ngd 能动
 ngds 能动
@@ -43559,7 +43559,7 @@ vcze 沼泽
 vczj 注册资金
 vczo 照做
 vczu 招租
-vd 直到
+vd 知道 指定
 vdb 窄
 vdbd 知道不知道
 vdbi 债多不愁
@@ -44333,7 +44333,7 @@ vicj 致残
 vicv 芷
 vid 汁
 vida 直达
-vidc 指导
+vidc 指导 铸成大错
 vidd 纸袋
 vide 值得
 vidh 只当
@@ -51890,7 +51890,7 @@ ydz 一大早
 ydzh 一肚子火
 ydzi 一肚子
 ydzq 一肚子气
-ye 野
+ye 也 野
 yea 页
 year 页
 yeb 爷
