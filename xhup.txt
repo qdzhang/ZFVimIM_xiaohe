@@ -868,11 +868,11 @@ bbz 半辈子
 bbzh 殡葬
 bbzi 半辈子
 bbzy 不必在意
-bc 宝
+bc 报 宝
 bca 鲍
 bcan 保安
 bcas 鲍
-bcb 鸨
+bcb 包 鸨
 bcbc 宝宝
 bcbd 刨
 bcbf 保本
@@ -5477,7 +5477,7 @@ dbyu 独步一时
 dbz 代表作
 dbzl 蹬鼻子上脸
 dbzo 代表作
-dc 道
+dc 到 道
 dca 鱽
 dcad 到
 dcb 倒逼
@@ -8231,7 +8231,7 @@ dyzi 多音字
 dyzo 遁
 dyzu 顿足
 dyzw 大有作为
-dz 逗
+dz 都 逗
 dza 豆
 dzaa 豆
 dzb 痘
@@ -18864,7 +18864,7 @@ jasw 居安思危
 jaub 节哀顺变
 jazd 骄傲自大
 jazm 骄傲自满
-jb 今
+jb 进 今
 jbai 紧挨
 jbb 进步
 jbbb 骄兵必败
@@ -19328,7 +19328,7 @@ jhyr 嫁祸于人
 jhyu 劫后余生
 jhz 叫花子
 jhzi 叫花子
-ji 极
+ji 几 极
 jia 击
 jiae 鲫
 jiah 激昂
@@ -19544,7 +19544,7 @@ jiru 记入
 jirv 偈
 jiry 伎
 jirz 肌肉
-jis 继
+jis 级 继
 jisc 祭扫
 jisd 罽
 jise 缉
@@ -20315,7 +20315,7 @@ jmut 金木水火土
 jmuu 简述
 jmuv 减税
 jmuz 坚守
-jmv 笕
+jmv 简 笕
 jmva 奸诈
 jmvd 箭
 jmve 舰
