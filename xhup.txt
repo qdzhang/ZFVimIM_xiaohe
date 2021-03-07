@@ -2457,7 +2457,7 @@ bmle 变了
 bmlf 八面来风
 bmlg 变冷
 bmli 便利
-bmll 八面玲珑
+bmll 变量 八面玲珑
 bmlm 变脸
 bmlu 辨
 bmly 辩论
@@ -46365,7 +46365,7 @@ wcuq 稳操胜券
 wcx 无从选择
 wcxu 无从下手
 wcxz 无从选择
-wd 味道
+wd 外 味道
 wdb 歪
 wdbb 外宾
 wdbc 外包
