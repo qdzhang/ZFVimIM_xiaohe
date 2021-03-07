@@ -1,4 +1,4 @@
-a 按
+a 啊 按
 aa 阿
 aab 阿坝
 aaba 阿爸
@@ -630,7 +630,7 @@ azb 艾滋病
 azbk 艾滋病
 azfm 爱憎分明
 azpc 腌臜泼才
-b 吧
+b 不 吧
 ba 把
 baa 鲅
 baab 鲃
@@ -3869,7 +3869,7 @@ bzym 不足与谋
 bzyu 不在于
 bzz 不自在
 bzzd 不自在
-c 此
+c 才 此
 ca 擦
 cab 擦背
 cabm 擦边
@@ -5149,7 +5149,7 @@ cztl 惨遭屠戮
 czuu 凑数
 czxt 操作系统
 czzu 凑足
-d 打
+d 的 打
 da 搭
 daa 答案
 daai 大碍
@@ -8356,7 +8356,7 @@ dzzg 陡增
 dzzi 豆子
 dzzv 斗嘴
 dzzx 刀子嘴豆腐心
-e 嗯
+e 二 嗯
 ea 恩爱
 eb 而不
 ebe 饿不饿
@@ -8783,7 +8783,7 @@ eyxj 恶语相加
 ez 儿子
 ezj 恶作剧
 ezju 恶作剧
-f 发
+f 非 发
 fa 法
 faan 发暗
 fab 发布
@@ -10638,7 +10638,7 @@ fzy 副作用
 fzyl 放在眼里
 fzys 副作用
 fzze 否则
-g 管
+g 个 管
 ga 嘎
 gaa 夹
 gaag 戛
@@ -13375,7 +13375,7 @@ gzzf 工作作风
 gzzi 钩子
 gzzj 工作总结
 gzzr 遘
-h 化
+h 和 化
 ha 哈
 hada 哈达
 hafo 哈佛
@@ -18856,7 +18856,7 @@ izzc 踌
 izzi 筹资
 izzq 臭
 izzz 抽走
-j 见
+j 就 见
 ja 骄傲
 jabx 桀骜不驯
 jaqm 举案齐眉
@@ -22130,7 +22130,7 @@ jzy 就在于
 jzyq 近在眼前
 jzyu 就在于
 jzyy 君子一言
-k 块
+k 可 块
 ka /oqka
 kad 卡顿
 kada 咔哒
@@ -23827,7 +23827,7 @@ kzyj 看走眼
 kzyl 看在眼里
 kzyu 口语
 kzzi 扣子
-l 立
+l 了 立
 la 拉
 lab 瘌
 laba 喇叭
@@ -26802,7 +26802,7 @@ lzzc 乱糟糟
 lzzd 乱糟糟的
 lzzi 乐滋滋
 lzzs 老祖宗
-m 嘛
+m 没 嘛
 ma 骂
 maan 马鞍
 mab 麻痹
@@ -29190,7 +29190,7 @@ mzyt 某月
 mzyu 名噪一时
 mzz 美滋滋
 mzzi 眸子
-n 哪
+n 你 哪
 na 那
 nab 哪边
 nabf 那本
@@ -32528,7 +32528,7 @@ pztz 垺
 pzw 裒
 pzwy 裒
 pzxi 剖析
-q 期
+q 去 期
 qa 亲爱
 qad 亲爱的
 qade 亲爱的
@@ -34802,7 +34802,7 @@ qzwy 确凿无疑
 qzxw 擒贼先擒王
 qzy 起作用
 qzys 起作用
-r 入
+r 人 入
 ra 热爱
 rb 日本
 rbd 容不得
@@ -36034,7 +36034,7 @@ rzyz 荣宗耀祖
 rzz 蹂
 rzzf 认贼作父
 rzzm 蹂
-s 随
+s 三 随
 sa 撒
 saa 卅
 saal 卅
@@ -37507,7 +37507,7 @@ szww 馊味
 szxy 搜寻
 szy 嗓子眼
 szyj 嗓子眼
-t 它
+t 他 它
 ta 她
 taa 鳎
 taax 鳎
@@ -40166,7 +40166,7 @@ tzzi 投资
 tzzn 透
 tzzv 偷嘴
 tzzz 偷走
-u 时
+u 是 时
 ua 啥
 uab 痧
 uabc 沙包
@@ -41318,7 +41318,7 @@ uhz 上载
 uhzc 尚早
 uhzd 尚在
 uhzo 上座
-ui 室
+ui 事 室
 uia 十
 uiac 鲥
 uiai 鲺
@@ -43280,7 +43280,7 @@ uzzi 瘦子
 uzzo 双子座
 uzzu 手足
 uzzv 受罪
-v 之
+v 这 之
 va 扎
 vaa 鲊
 vaaj 治安案件
@@ -46253,7 +46253,7 @@ vzz 周遭
 vzzc 周遭
 vzzg 骤增
 vzzi 肘子
-w 位
+w 我 位
 wa 挖
 waa 瓦
 waad 瓦
@@ -48136,7 +48136,7 @@ wzxi 晚自习
 wzyx 文字游戏
 wzzd 妄自尊大
 wzzu 畏罪自杀
-x 性
+x 小 性
 xa 西安
 xaj 笑傲江湖
 xajd 西安交大
