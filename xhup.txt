@@ -1889,7 +1889,7 @@ bizt 逼
 bizu 鼻祖
 bizv 闭嘴
 bizz 逼走
-bj 背景
+bj 办 背景
 bjan 办案
 bjb 颁
 bjbd 半百
@@ -9030,7 +9030,7 @@ fems 福尔摩斯
 fendou /oqfd
 feph 飞蛾扑火
 fevv 分而治之
-ff 份
+ff 分 份
 ffa 鲼
 ffar 鲼
 ffb 忿
@@ -12352,7 +12352,7 @@ grz 过日子
 grzi 馆子
 grzv 灌醉
 grzx 各人自扫门前雪
-gs 公司
+gs 共 公司
 gsa 工
 gsaa 工
 gsan 公安
@@ -44494,7 +44494,7 @@ viqm 之前
 viqq 只求
 viqr 职权
 viqu 支取
-vir 主持人
+vir 值 主持人
 vire 炙热
 virf 指认
 viri 之日
@@ -55147,7 +55147,7 @@ yzyj 右眼
 yzyl 幼
 yzyn 诱
 yzyr 有缘
-yzys 游泳
+yzys 有用 游泳
 yzyt 优越
 yzyu 犹豫
 yzyw 有滋有味
