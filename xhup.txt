@@ -4017,7 +4017,7 @@ ccz 操作
 ccza 嘈杂
 cczo 操作
 cczs 操纵
-cd /oqcd
+cd 菜 猜
 cda 才
 cdap 才
 cdb 财宝
@@ -11267,7 +11267,7 @@ gfzg 跟
 gfzi 根子
 gfzs 跟踪
 gfzu 孤芳自赏
-gg /oqgg
+gg 更 刚刚
 gga 鲠
 ggag 鲠
 ggan 更
@@ -17357,7 +17357,7 @@ ihua 长沙
 ihue 常设
 ihug 长生
 ihuh 厂商
-ihui 常识
+ihui 尝试 常识
 ihuo 常说
 ihup 畅
 ihut 丑话说在前头
@@ -25091,7 +25091,7 @@ lkyz 另有
 lkz 两口子
 lkzi 领子
 lkzy 令尊
-ll /oqll
+ll 两
 lla 两
 llad 两
 llan 两岸
@@ -40707,7 +40707,7 @@ ueyt 十二月
 ueyy 设
 ueyz 舍友
 uezu 涉足
-uf 束缚
+uf 深 束缚
 ufa 深奥
 ufai 深爱
 ufan 深谙
@@ -41008,6 +41008,7 @@ ugmk 生命
 ugmt 视功名如粪土
 ugmu 声母
 ugmw 说个没完
+ugmz 声明在
 ugn 牲
 ugna 声纳
 ugnm 盛年
@@ -45319,7 +45320,7 @@ vrz 转载
 vrzd 转载
 vrze 专责
 vrzo 专座
-vs 终
+vs 中 终
 vsai 钟爱
 vsb 冢
 vsbd 钟摆
@@ -50742,7 +50743,7 @@ xwyd 虚位以待
 xwyi 夏威夷
 xwyt 吓我一跳
 xwzn 心无杂念
-xx 学习
+xx 下 学习
 xxa 夏
 xxab 下
 xxai 狭隘
@@ -54908,7 +54909,7 @@ yyzs 运
 yyzt 隐隐作痛
 yyzx 有言在先
 yyzz 运走
-yz 友
+yz 有 友
 yza 鱿
 yzaa 酉
 yzai 友爱
