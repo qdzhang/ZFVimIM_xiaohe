@@ -5,3 +5,14 @@
 ## 使用方法
 
 安装 [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) 插件，下载词库到本地，根据 ZFVimIM 的[文档](https://github.com/ZSaberLv0/ZFVimIM#minimal-config-local-db) ，在 vim 的配置文件里指定下载好的 `xhup.txt` 文件。
+
+也可以使用插件管理器安装 [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) 和词库：
+
+```vimscript
+Plug 'ZSaberLv0/ZFVimIM'
+Plug 'ZSaberLv0/ZFVimJob'
+Plug 'qdzhang/ZFVimIM_xiaohe'
+
+" 如果想要更频繁的词库更新，可以使用 revision 分支
+" Plug 'qdzhang/ZFVimIM_xiaohe', {'branch': 'revision'}
+```
