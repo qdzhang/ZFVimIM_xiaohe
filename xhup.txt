@@ -3463,7 +3463,7 @@ bvyv 白纸一张
 bvyw 不值一文
 bvyy 秉烛夜游
 bvzv 敝帚自珍
-bw 背
+bw 被 备
 bwa 悲哀
 bwai 悲哀
 bwan 备案
@@ -10748,7 +10748,7 @@ gbz 光膀子
 gbzf 故步自封
 gbzi 光膀子
 gbzy 刚愎自用
-gc 搞
+gc 高 搞
 gca 高傲
 gcah 高昂
 gcai 高矮
