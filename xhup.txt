@@ -41102,7 +41102,7 @@ ugyz 省油
 ugz 绳子
 ugzi 绳子
 ugzj 盛赞
-uh 伤害
+uh 上 伤害
 uhan 上岸
 uhb 上报
 uhba 伤疤
