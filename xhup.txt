@@ -3463,7 +3463,7 @@ bvyv 白纸一张
 bvyw 不值一文
 bvyy 秉烛夜游
 bvzv 敝帚自珍
-bw 背
+bw 被 备
 bwa 悲哀
 bwai 悲哀
 bwan 备案
@@ -6198,7 +6198,7 @@ dich 荻
 dicj 蒂
 dicu 菂
 did 涤
-dida 抵达
+dida 抵达 滴答
 didc 地道
 didd 地带
 dide 邸
@@ -10748,7 +10748,7 @@ gbz 光膀子
 gbzf 故步自封
 gbzi 光膀子
 gbzy 刚愎自用
-gc 搞
+gc 高 搞
 gca 高傲
 gcah 高昂
 gcai 高矮
@@ -41102,7 +41102,7 @@ ugyz 省油
 ugz 绳子
 ugzi 绳子
 ugzj 盛赞
-uh 伤害
+uh 上 伤害
 uhan 上岸
 uhb 上报
 uhba 伤疤
